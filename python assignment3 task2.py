@@ -1,5 +1,5 @@
 import math
-n=float(input("Enter an iteger: "))
+n=float(input("Enter any number: "))
 
 if n>=0:
     print("Square root of ", n," is ",math.sqrt(n))
